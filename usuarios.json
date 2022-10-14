@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Sonkoh",
+        "password": "$2y$10$5BXBKGqAIA0sgu4Ckqo0lO5HlrD4Q6Eeu0e6saqlqg/cVeIroVTLS"
+    },
+    {
+        "nombre": "Dino",
+        "password": "12341"
+    },
+    {
+        "nombre": "Nacho",
+        "password": "12342"
+    },
+    {
+        "nombre": "Agus",
+        "password": "12343"
+    },
+    {
+        "nombre": "Lucas",
+        "password": "12344"
+    }
+]
